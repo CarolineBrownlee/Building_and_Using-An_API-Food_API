@@ -1,0 +1,15 @@
+body {
+    background-color: rosybrown;
+}
+
+.foodList {
+    display: flex;
+    justify-content: space-between;
+}
+
+.food {
+    border: solid black 1px;
+    background-color: wheat;
+    padding-left: 10px;
+    padding-right: 10px;
+}
