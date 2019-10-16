@@ -4,37 +4,73 @@
       "id": 1,
       "name": "Linguine",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "3560070555307",
+      "ingredients": "Semoule de _blé_ dur de qualité supérieure.",
+      "countryOfOrigin": "Not available.",
+      "caloriesPerServing": "Not available.",
+      "fatPerServing": 2,
+      "sugarPerServing": "Not available."
     },
     {
       "id": 2,
       "name": "Massaman curry",
       "category": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "3560070976416",
+      "ingredients": "No ingredients listed.",
+      "countryOfOrigin": "Not available.",
+      "caloriesPerServing": "Not available.",
+      "fatPerServing": 11.7,
+      "sugarPerServing": "Not available."
     },
     {
       "id": 3,
       "name": "Green curry",
       "category": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "8852018101123",
+      "ingredients": "Ingrédients : Nouilles: farine de blé, huile de palme (contient antioxygène: E319), amidon de tapioca, bouillon en poudre (arôme, exhausteurs de goût : E627, E631 , extajt de levure), sel, correcteurs d'acidité: E500, E452, E451 , épaississant E466. Assaisonnement : sucre, huile de palme (contient antioxygène: E320), sel, exhausteur de goût E621, E631, E627, produit à blanchir café (sirop de glucose huile de palmiste endurcie, protéine de lait, correcteur diacidité: E340, émulsifiant : E471, antiaglomerant : E551), légumes (ail, oignon, échalote, feuille d'oignon), herbes (feuille de basilic, coriandre, fenouil, citronnelle, combava), arôme, épices (piment, poivre, galanga), sauce de soja en poudre (fèves de soja, blé, sirop de glucose, maltodextrine, colorant : El 50C, acidifiant : 830), colorant'. El 71, épaississant E415, acidifiant : E296, crevettes. Ce produit est susceptible de contenir des traces de sésame, céleri et poisso",
+      "countryOfOrigin": "Not available.",
+      "caloriesPerServing": "Not available.",
+      "fatPerServing": 3.2,
+      "sugarPerServing": "Not available."
     },
     {
       "id": 4,
       "name": "Ravioli Funghi",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8001665127585",
+      "ingredients": "No ingredients listed.",
+      "countryOfOrigin": "",
+      "caloriesPerServing": "",
+      "fatPerServing": 6.6,
+      "sugarPerServing": ""
     },
     {
       "id": 5,
       "name": "Tuscan Soup",
       "category": "vegetarian",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "5000169116562",
+      "ingredients": "water, vegetables 28% (carrots, onions, courgettes, green peppers, potatoes, _celery_, red peppers and tomato), mixed beans 7% (red kidney beans, borlotti beans, cannellini beans and pinto beans), tomato paste, red lentils, maze starch, sugar, sea salt, garlic purée, salt, caramelised sugar syrup, yeast extract, onion powder, potato starch, _celery_ seeds, sunflower oil, basil, red chilli purée, black pepper, black pepper extract, nutmeg extract, turmeric extract, parsley, lovage extract.",
+      "countryOfOrigin": "",
+      "caloriesPerServing": "",
+      "fatPerServing": 0.5,
+      "sugarPerServing": ""
     },
     {
+      "id": 6,
       "name": "Chocolate Bunnies",
       "category": "Junk Foood",
       "ethnicity": "American",
-      "id": 6
+      "barcode": "4000539669804",
+      "ingredients": "Sugar, cocoa butter, hazelnuts (20%), whole milk powder, cocoa mass, lactose, skimmed milk powder, emulsifier (soya lecithin), malt extract (barley), flavouring vanillin.",
+      "countryOfOrigin": "",
+      "caloriesPerServing": "",
+      "fatPerServing": 43,
+      "sugarPerServing": ""
     }
   ]
 }
